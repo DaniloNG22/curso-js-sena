@@ -9,9 +9,9 @@ GIT = Es un sistema de control de versiones que permite gestionar el código; ge
 
 ## Comandos más usados:
 
+-git clone: es para descargar una copia del repo a local (si es necesario)
 -git init: inicia git en el proyecto (se hace solo una vez)
--git statues: muestra los cambios que no se han guardado en GIT
--git add: agrega los cambios a la copia local de git
--git commit: 
--git clone: es para descargar una copia del repo a local
+-git status: muestra los cambios que no se han guardado en GIT
+-git add .: agrega los cambios a la copia local de git
+-git commit: agrega un comentario sobre los cambios a subir
 -git push: para subir o actualizar los cambios al repo
